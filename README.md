@@ -2,7 +2,7 @@
 
 ## type the command npm install @karanmottan/madewithlove and import Madewithlove
 
-** Some options **
+Some options
 
 - No props
 
