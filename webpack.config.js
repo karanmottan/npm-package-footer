@@ -5,7 +5,7 @@ module.exports = {
   entry: "./src/Madewithlove.js",
   output: {
     path: path.resolve("build"),
-    filename: "index.js",
+    filename: "Madewithlove.js",
     libraryTarget: "commonjs2"
   },
   module: {
@@ -18,6 +18,6 @@ module.exports = {
     ]
   },
   externals: {
-    react: "React"
+    React: "react"
   }
 };
